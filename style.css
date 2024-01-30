@@ -30,7 +30,7 @@ body{
 .userflash{
     background-color: greenyellow;
 }
-@media screen and (min-width: 200px) {
+@media screen and (min-width: 600px) {
   .btn {
     width: 10vw;
     height: 10vw;
